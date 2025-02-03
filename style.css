@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(104, 102, 102);
+}
+.navbar-brand{
+    color: rgb(238, 164, 26);
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+
+.main-navbar{
+color: orange;
+}
